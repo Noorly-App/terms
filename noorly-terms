@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noorly - Terms of Service</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #000000;
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 2.2em;
+            text-transform: uppercase;
+        }
+        .subtitle {
+            text-align: center;
+            color: #86D3D9;
+            margin-bottom: 30px;
+            font-style: italic;
+            font-weight: 600;
+        }
+        h2 {
+            color: #000000;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+        .important {
+            background-color: #f0fbfc;
+            padding: 15px;
+            border-left: 4px solid #86D3D9;
+            margin: 20px 0;
+            font-weight: bold;
+            color: #000000;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+        .contact-info {
+            background-color: #f1f8ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .date {
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>NOORLY - TERMS OF SERVICE</h1>
+        <p class="date">Last updated: September 15, 2025</p>
+
+        <h2>AGREEMENT TO TERMS</h2>
+        <p>These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and [YOUR NAME OR COMPANY NAME TO BE DETERMINED] ("we," "us," or "our"), concerning your access to and use of the Noorly mobile application as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the "App"). The App provides Islamic educational content featuring authentic Sunnahs from Prophet Muhammad (peace be upon him) (the "Service"). You agree that by accessing the App, you have read, understood, and agree to be bound by all of these Terms of Service.</p>
+
+        <div class="important">
+            IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF SERVICE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APP AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+        </div>
+
+        <p>Supplemental terms and conditions or documents that may be posted on the App from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Service at any time and for any reason. We will alert you about any changes by updating the "Last updated" date of these Terms of Service, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Service to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Service by your continued use of the App after the date such revised Terms of Service are posted.</p>
+
+        <p>The information provided on the App is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the App from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.</p>
+
+        <p><strong>All users who are minors in the jurisdiction in which they reside (generally under the age of 18) are strictly prohibited from using the App without the express permission of, and direct supervision by, their parent or guardian. If you are under 18, you absolutely cannot access or use any of our services without your parent or guardian having first read and agreed to these Terms of Service and providing ongoing supervision of your use.</strong></p>
+
+        <h2>INTELLECTUAL PROPERTY RIGHTS</h2>
+        <p>Unless otherwise indicated, the App and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the App (collectively, the "Content") and the trademarks, service marks, and logos contained therein (the "Marks") are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of Norway, the European Union, and international conventions. The Content and the Marks are provided on the App "AS IS" for your information and personal use only. Except as expressly provided in these Terms of Service, no part of the App and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.</p>
+
+        <p>Provided that you are eligible to use the App, you are granted a limited license to access and use the App and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the App, the Content and the Marks.</p>
+
+        <h2>USER REPRESENTATIONS</h2>
+        <p>By using the App, you represent and warrant that: (1) you have the legal capacity and you agree to comply with these Terms of Service; (2) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received express parental permission and ongoing supervision to use the App; (3) you will not access the App through automated or non-human means, whether through a bot, script or otherwise; (4) you will not use the App for any illegal or unauthorized purpose; (5) your use of the App will not violate any applicable law or regulation; (6) you will not use the App in any manner that contradicts Islamic principles and values; and (7) you understand this is an educational tool and will consult qualified Islamic scholars for specific religious guidance.</p>
+
+        <p>If you provide any information that is untrue, inaccurate, not current, or incomplete, or if you violate any of these representations, we have the right to suspend or terminate your access and refuse any and all current or future use of the App (or any portion thereof).</p>
+
+        <h2>APP UPDATES AND CONTENT ACCURACY</h2>
+        <p>We are committed to providing authentic and accurate Islamic content to serve the Muslim community. To ensure you receive the most reliable and up-to-date religious material, it is essential that you maintain the latest version of the Noorly app through your device's app store.</p>
+        
+        <p>While we exercise utmost care in sourcing and presenting Islamic content from established Hadith collections and authentic sources, we acknowledge that occasional inaccuracies, typographical errors, or content updates may occur. We continuously review and improve our content to maintain the highest standards of authenticity and accuracy.</p>
+        
+        <p>When errors are identified, we promptly work to correct them in subsequent app updates. By keeping your app current, you help ensure access to the most accurate and refined Islamic educational material available. We encourage users to report any concerns about content accuracy through our feedback system so we can address them appropriately.</p>
+        
+        <p>You acknowledge that while we strive for perfection in presenting authentic Islamic teachings, you should consult qualified Islamic scholars for specific religious guidance and verification of important religious matters.</p>
+        <p>You may not access or use the App for any purpose other than that for which we make the App available. As a user of the App, you agree not to:</p>
+        <ul>
+            <li>Systematically retrieve data or other content from the App to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.</li>
+            <li>Make improper use of our feedback system or submit false reports of abuse or technical issues.</li>
+            <li>Use automated systems to send repetitive or spam messages through our feedback channels.</li>
+            <li>Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive information.</li>
+            <li>Circumvent, disable, or otherwise interfere with security-related features of the App, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the App and/or the Content contained therein.</li>
+            <li>Disparage, tarnish, or otherwise harm, in our opinion, us and/or the App.</li>
+            <li>Use any information obtained from the App in order to harass, abuse, or harm another person.</li>
+            <li>Make improper use of our support services or submit false reports of abuse or misconduct.</li>
+            <li>Use the App in a manner inconsistent with any applicable laws or regulations.</li>
+            <li>Engage in unauthorized framing of or linking to the App.</li>
+            <li>Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming, that interferes with any party's uninterrupted use and enjoyment of the App.</li>
+            <li>Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.</li>
+            <li>Delete the copyright or other proprietary rights notice from any Content.</li>
+
+            <li>Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism.</li>
+            <li>Interfere with, disrupt, or create an undue burden on the App or the networks or services connected to the App.</li>
+            <li>Use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the App.</li>
+            <li>Use the App as part of any effort to compete with us or otherwise use the App and/or the Content for any revenue-generating endeavor or commercial enterprise.</li>
+            <li>Decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the App.</li>
+            <li>Attempt to bypass any measures of the App designed to prevent or restrict access to the App, or any portion of the App.</li>
+            <li>Copy or adapt the App's software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.</li>
+            <li>Misrepresent, distort, or misuse the Islamic content provided in the App.</li>
+            <li>Use the App for any purpose that contradicts Islamic values or principles.</li>
+        </ul>
+
+        <h2>MOBILE APPLICATION LICENSE</h2>
+        <h3>Use License</h3>
+        <p>If you access the App via a mobile application, then we grant you a revocable, non-exclusive, non-transferable, limited right to install and use the mobile application on wireless electronic devices owned or controlled by you, and to access and use the mobile application on such devices strictly in accordance with the terms and conditions of this mobile application license contained in these Terms of Service. You shall not: (1) except as permitted by applicable law, decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the application; (2) make any modification, adaptation, improvement, enhancement, translation, or derivative work from the application; (3) violate any applicable laws, rules, or regulations in connection with your access or use of the application; (4) remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) posted by us or the licensors of the application; (5) use the application for any revenue generating endeavor, commercial enterprise, or other purpose for which it is not designed or intended; (6) make the application available over a network or other environment permitting access or use by multiple devices or users at the same time; (7) use the application for creating a product, service, or software that is, directly or indirectly, competitive with or in any way a substitute for the application; (8) use the application to send automated queries to any website or to send any unsolicited commercial e-mail; or (9) use any proprietary information or any of our interfaces or our other intellectual property in the design, development, manufacture, licensing, or distribution of any applications, accessories, or devices for use with the application.</p>
+
+        <h2>SUBMISSIONS</h2>
+        <p>You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the App ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you. You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.</p>
+
+        <h2>APP MANAGEMENT</h2>
+        <p>We reserve the right, but not the obligation, to: (1) monitor the App for violations of these Terms of Service; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Service, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your use or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the App or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the App in a manner designed to protect our rights and property and to facilitate the proper functioning of the App.</p>
+
+        <h2>PRIVACY POLICY</h2>
+        <p>We care about data privacy and security. Our App is designed with privacy as a fundamental principle. We do not collect, store, transmit, or process any personal information, user data, or personally identifiable information whatsoever. All App functionality, including progress tracking and preferences, operates entirely on your local device without any data transmission to external servers. We do not use cookies, analytics, tracking technologies, advertising technologies, or any form of data collection mechanisms. We do not have user accounts, registration systems, or any method of identifying individual users. We cannot and do not monitor, track, or record your usage of the App in any way. By using the App, you acknowledge that we have no access to any information about your usage, and you agree that we have no liability related to data privacy, security, or protection since no data is collected, processed, or stored by us. Any data processing that occurs (such as locally stored progress) happens entirely on your device and is under your complete control.</p>
+
+        <h2>TERM AND TERMINATION</h2>
+        <p>These Terms of Service shall remain in full force and effect while you use the App. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF SERVICE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE APP (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF SERVICE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE APP AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.</p>
+
+        <p>If we terminate or suspend your access for any reason, you are prohibited from attempting to access the App under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your access, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.</p>
+
+        <h2>MODIFICATIONS AND INTERRUPTIONS</h2>
+        <p>We reserve the right to change, modify, or remove the contents of the App at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our App. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the App.</p>
+
+        <p>We cannot guarantee the App will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the App, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the App at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the App during any downtime or discontinuance of the App. Nothing in these Terms of Service will be construed to obligate us to maintain and support the App or to supply any corrections, updates, or releases in connection therewith.</p>
+
+        <h2>GOVERNING LAW</h2>
+        <p>These Terms of Service and your use of the App are governed by and construed in accordance with Norwegian law, without regard to its conflict of law principles.</p>
+
+        <h2>DISPUTE RESOLUTION</h2>
+        <h3>Informal Negotiations</h3>
+        <p>To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms of Service (each a "Dispute" and collectively, the "Disputes") brought by either you or us (individually, a "Party" and collectively, the "Parties"), the Parties agree to first attempt to negotiate any Dispute informally for at least thirty (30) days before initiating formal proceedings. Such informal negotiations commence upon written notice from one Party to the other Party at noorlyappfeedback@gmail.com.</p>
+
+        <h3>Jurisdiction</h3>
+        <p>If informal negotiations fail, any Dispute shall be resolved exclusively in the courts of Norway, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to venue and jurisdiction in such courts.</p>
+
+        <h2>CORRECTIONS</h2>
+        <p>There may be information on the App that contains typographical errors, inaccuracies, or omissions, including descriptions, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the App at any time, without prior notice.</p>
+
+        <h2>DISCLAIMER</h2>
+        <p>THE APP IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE APP AND OUR SERVICE WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE APP AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE APP'S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE APP AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE APP, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE APP, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE APP BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE APP. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE APP, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.</p>
+
+        <h2>LIMITATIONS OF LIABILITY</h2>
+        <p>IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE APP, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT YOU PAID TO ACCESS THE APP (WHICH IS ZERO EUROS, AS THE APP IS PROVIDED FREE OF CHARGE). CERTAIN LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.</p>
+
+        <h2>INDEMNIFICATION</h2>
+        <p>You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by any third party due to or arising out of: (1) use of the App; (2) breach of these Terms of Service; (3) any breach of your representations and warranties set forth in these Terms of Service; (4) your violation of the rights of a third party, including but not limited to intellectual property rights; or (5) any overt harmful act toward any other user of the App with whom you connected via the App. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.</p>
+
+        <h2>ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES</h2>
+        <p>Using the App and sending us emails constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the App, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE APP. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.</p>
+
+        <h2>MISCELLANEOUS</h2>
+        <p>These Terms of Service and any policies or operating rules posted by us on the App constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Service shall not operate as a waiver of such right or provision. These Terms of Service operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Service is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Service and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Service or use of the App. You agree that these Terms of Service will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Service and the lack of signing by the parties hereto to execute these Terms of Service.</p>
+
+        <div class="contact-info">
+            <h2>CONTACT US</h2>
+            <p>In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please contact us at:</p>
+            <p><strong>Email:</strong> noorlyappfeedback@gmail.com</p>
+        </div>
+    </div>
+</body>
+</html>
