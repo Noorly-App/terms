@@ -68,6 +68,14 @@
             font-size: 0.9em;
             margin-bottom: 30px;
         }
+        .external-link {
+            color: #007AFF;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+        .external-link:hover {
+            opacity: 0.7;
+        }
     </style>
 </head>
 <body>
@@ -187,8 +195,101 @@
         <div class="contact-info">
             <h2>CONTACT US</h2>
             <p>In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please contact us at:</p>
-            <p><strong>Email:</strong> noorlyappfeedback@gmail.com</p>
+            <p><strong>Email:</strong> <span class="external-link" onclick="openExternalLink('mailto:noorlyappfeedback@gmail.com')">noorlyappfeedback@gmail.com</span></p>
+            <p>For more information about our services, visit our <span class="external-link" onclick="openExternalLink('https://www.example.com')">website</span></p>
         </div>
     </div>
+
+    <script>
+        /**
+         * Safari View Controller Integration
+         * This function handles opening external URLs using SFSafariViewController
+         * when the webpage is loaded within an iOS app
+         */
+        function openExternalLink(url) {
+            // Check if we're running inside an iOS WebView/WKWebView
+            if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.safariViewController) {
+                // Send message to iOS app to open URL in Safari View Controller
+                try {
+                    window.webkit.messageHandlers.safariViewController.postMessage({
+                        action: 'openURL',
+                        url: url
+                    });
+                } catch (error) {
+                    console.log('Error posting message to Safari View Controller:', error);
+                    // Fallback to regular window.open
+                    fallbackOpenLink(url);
+                }
+            } else {
+                // Fallback for non-iOS environments or when Safari View Controller is not available
+                fallbackOpenLink(url);
+            }
+        }
+
+        /**
+         * Fallback function for opening links in regular browser
+         */
+        function fallbackOpenLink(url) {
+            if (url.startsWith('mailto:')) {
+                window.location.href = url;
+            } else {
+                window.open(url, '_blank', 'noopener,noreferrer');
+            }
+        }
+
+        /**
+         * Alternative method using custom URL scheme (if your app supports it)
+         * This can be used alongside or instead of the webkit message handler
+         */
+        function openWithCustomScheme(url) {
+            const customSchemeUrl = `noorly://safari?url=${encodeURIComponent(url)}`;
+            
+            // Try to open with custom scheme
+            const iframe = document.createElement('iframe');
+            iframe.style.display = 'none';
+            iframe.src = customSchemeUrl;
+            document.body.appendChild(iframe);
+            
+            // Clean up iframe after a short delay
+            setTimeout(() => {
+                document.body.removeChild(iframe);
+            }, 1000);
+            
+            // Fallback if custom scheme doesn't work
+            setTimeout(() => {
+                fallbackOpenLink(url);
+            }, 500);
+        }
+
+        // Event listener for handling all external links automatically
+        document.addEventListener('DOMContentLoaded', function() {
+            // Find all external links (you can modify this selector as needed)
+            const externalLinks = document.querySelectorAll('a[href^="http"], a[href^="https"], a[href^="mailto:"]');
+            
+            externalLinks.forEach(link => {
+                link.addEventListener('click', function(event) {
+                    event.preventDefault();
+                    const url = this.href;
+                    openExternalLink(url);
+                });
+            });
+        });
+
+        /**
+         * Optional: Function to check if Safari View Controller is available
+         * You can use this to conditionally show different UI elements
+         */
+        function isSafariViewControllerAvailable() {
+            return !!(window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.safariViewController);
+        }
+
+        // Example usage of availability check
+        if (isSafariViewControllerAvailable()) {
+            console.log('Safari View Controller is available');
+            // You could add special styling or functionality here
+        } else {
+            console.log('Safari View Controller not available, using fallback methods');
+        }
+    </script>
 </body>
 </html>
