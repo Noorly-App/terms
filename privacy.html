@@ -239,20 +239,56 @@
                 <li><strong>Privacy Protection:</strong> All processing occurs locally on user's device</li>
             </ul>
 
+            <h3>React Navigation (@react-navigation/*)</h3>
+            <ul>
+                <li><strong>Purpose:</strong> In-app navigation between screens</li>
+                <li><strong>Data Collection:</strong> No external data collection - navigation state local only</li>
+                <li><strong>Data Sharing:</strong> No data sharing - no external navigation or deep linking</li>
+                <li><strong>Privacy Protection:</strong> Navigation occurs entirely within the app</li>
+            </ul>
+
             <h3>AsyncStorage (React Native)</h3>
             <ul>
                 <li><strong>Purpose:</strong> Local data storage for user progress and app preferences</li>
                 <li><strong>Data Collection:</strong> No external data collection - stores data locally only</li>
                 <li><strong>Data Sharing:</strong> No data sharing - data remains on user's device</li>
-                <li><strong>Privacy Protection:</strong> Data is encrypted using device-level security</li>
+                <li><strong>Privacy Protection:</strong> Data is encrypted using device-level security, never transmitted</li>
             </ul>
 
             <h3>iOS/Android System APIs</h3>
             <ul>
-                <li><strong>Purpose:</strong> Basic app functionality (display, storage, notifications)</li>
+                <li><strong>Purpose:</strong> Basic app functionality (display, storage, system integration)</li>
+                <li><strong>Specific APIs Used:</strong>
+                    <ul>
+                        <li>Dimensions.get('window') - Screen size detection for UI layout</li>
+                        <li>View, Text, TouchableOpacity, Modal - Basic UI rendering</li>
+                        <li>Platform.OS & Platform.Version - Device info for debugging in feedback emails only</li>
+                        <li>Linking.openURL() - Email app integration for feedback</li>
+                        <li>Clipboard.setString() - User-initiated copy to clipboard</li>
+                        <li>Alert.alert() - Native system alerts</li>
+                    </ul>
+                </li>
                 <li><strong>Data Collection:</strong> No data collection beyond local app operation</li>
                 <li><strong>Data Sharing:</strong> No data sharing with external services</li>
                 <li><strong>Privacy Protection:</strong> Uses only essential system permissions</li>
+            </ul>
+
+            <h3>Device Permissions</h3>
+            <p><strong>Permissions NOT Requested:</strong></p>
+            <ul>
+                <li>Camera access</li>
+                <li>Microphone access</li>
+                <li>Location access</li>
+                <li>Contacts access</li>
+                <li>Push notifications</li>
+                <li>File system access</li>
+                <li>Network permissions (beyond basic internet for email)</li>
+            </ul>
+            <p><strong>Default Permissions Only:</strong></p>
+            <ul>
+                <li>Basic app installation</li>
+                <li>Local storage access</li>
+                <li>System UI rendering</li>
             </ul>
 
             <h3>Email Integration (Device Native)</h3>
@@ -261,6 +297,7 @@
                 <li><strong>Data Collection:</strong> No data collection by Noorly - uses user's email app</li>
                 <li><strong>Data Sharing:</strong> User voluntarily sends feedback via their own email</li>
                 <li><strong>Privacy Protection:</strong> User controls all email communication</li>
+                <li><strong>Debug Information:</strong> Platform.OS/Version included in feedback emails for technical support only</li>
             </ul>
 
             <h3>No Analytics SDKs</h3>
@@ -272,7 +309,6 @@
                 <li>User behavior tracking services</li>
                 <li>Performance monitoring services that collect user data</li>
                 <li>A/B testing frameworks</li>
-                <li>Push notification services</li>
                 <li>Cloud synchronization services</li>
             </ul>
 
@@ -295,7 +331,16 @@
                 <li>Social login services</li>
             </ul>
 
-            <p><strong>Privacy Commitment:</strong> Any future integration of third-party SDKs or services will be disclosed in this privacy policy with complete transparency about their data collection practices. We commit to maintaining our no-data-collection approach.</p>
+            <h3>No External API Calls</h3>
+            <p><strong>Network Usage:</strong></p>
+            <ul>
+                <li>No external API calls to remote servers</li>
+                <li>No cloud services integration</li>
+                <li>No data synchronization services</li>
+                <li>Email integration uses device's native email app only</li>
+            </ul>
+
+            <p><strong>Privacy Commitment:</strong> Any future integration of third-party SDKs or services will be disclosed in this privacy policy with complete transparency about their data collection practices. We commit to maintaining our no-data-collection approach and will only use technologies that align with our privacy-by-design principles.</p>
         </div>
 
         <h3>Analytics</h3>
@@ -335,20 +380,20 @@
         </ul>
 
         <h2>CHILDREN'S PRIVACY</h2>
-        <p><strong>Age Requirement: 13 and above. If under 13, parent permission and supervision needed.</strong></p>
+        <p><strong>Age Requirements and Parental Consent:</strong> This Application is intended for users who are thirteen (13) years of age or older. Users under the age of thirteen (13) may only access and use this Application with the express written consent of a parent or legal guardian and under their direct, ongoing supervision.</p>
         
-        <p>Our Service is designed for users aged 13 and older. Users under 13 may only use Noorly with express parental permission and ongoing parental supervision. Since we do not collect personally identifiable information from anyone, including children under the age of 13, there are no special privacy concerns for children using Noorly under proper supervision.</p>
+        <p>Given that our Application does not collect, store, or process any personally identifiable information from users of any age, including children under thirteen (13), there are no heightened privacy risks associated with supervised use by minors. However, parental oversight remains required for users under thirteen (13) to ensure appropriate usage and compliance with applicable children's privacy regulations.</p>
 
-        <p>Parents and guardians can confidently allow children to use Noorly knowing that:</p>
+        <p>Parents and legal guardians may permit supervised use of this Application with confidence, understanding that:</p>
         <ul>
-            <li>No personal information is collected from children or adults</li>
-            <li>No user accounts or registration are required</li>
-            <li>The app operates completely offline regarding data processing</li>
-            <li>All Islamic content is educational and appropriate for all ages</li>
-            <li>Parental supervision ensures appropriate usage for users under 13</li>
+            <li>No personal information is collected from any user, regardless of age</li>
+            <li>No user account registration or personal data submission is required</li>
+            <li>All data processing occurs locally on the user's device without external transmission</li>
+            <li>All educational content has been curated to be appropriate for users of all ages</li>
+            <li>Parental supervision ensures compliance with our age requirements and appropriate usage patterns</li>
         </ul>
         
-        <p><strong>COPPA Compliance:</strong> This app complies with the Children's Online Privacy Protection Act (COPPA) by not collecting any personal information from children under 13 or users of any age. For users under 13, parental permission and supervision are required.</p>
+        <p><strong>Children's Online Privacy Protection Act (COPPA) Compliance:</strong> This Application complies with the Children's Online Privacy Protection Act (COPPA) and applicable children's privacy regulations by implementing a privacy-by-design approach that eliminates the collection of personal information from users of any age. For users under thirteen (13) years of age, express parental consent and ongoing supervision are mandatory prerequisites for access to and use of this Application.</p>
 
         <h2>LINKS TO OTHER WEBSITES</h2>
         <p>Our Service may contain links to other websites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
